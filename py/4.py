@@ -1,4 +1,4 @@
-def isPalindrome(num):
+def is_palindrome(num):
     if str(num) == str(num)[::-1]:
         return 1
 
@@ -9,7 +9,7 @@ maximum = 0
 
 for outer in range(999, 99, -1):
     for inner in range(999, 99, -1):
-        if isPalindrome(outer * inner):
+        if is_palindrome(outer * inner):
             maximum = outer * inner if outer * inner > maximum else maximum
 
 print(maximum)
