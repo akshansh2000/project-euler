@@ -8,3 +8,4 @@ Solutions of the famous [Project Euler](https://projecteuler.com/archives), in P
 2. Even Fibonacci numbers - [python](./py/2.py) | [cpp](./cpp/2.cpp)
 3. Largest prime factor - [python](./py/3.py) | [cpp](./cpp/3.cpp)
 4. Largest palindrome product - [python](./py/4.py) | [cpp](./cpp/4.cpp)
+5. Smallest multiple - [python](./py/5.py) | [cpp](./cpp/5.cpp)
