@@ -11,3 +11,4 @@ Solutions of the famous [Project Euler](https://projecteuler.com/archives), in P
 5. Smallest multiple - [python](./py/5.py) | [cpp](./cpp/5.cpp)
 6. Sum square difference - [python](./py/6.py) | [cpp](./cpp/6.cpp)
 7. 10001st prime - [python](./py/7.py) | [cpp](./cpp/7.cpp)
+8. Largest product in a series - [python](./py/8.py) | [cpp](./cpp/8.cpp)
