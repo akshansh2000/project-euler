@@ -14,3 +14,5 @@ Solutions of the famous [Project Euler](https://projecteuler.com/archives), in P
 8. Largest product in a series - [python](./py/8.py) | [cpp](./cpp/8.cpp)
 9. Special Pythagorean triplet - [python](./py/9.py) | [cpp](./cpp/9.cpp)
 10. Summation of primes - [python](./py/10.py) | [cpp](./cpp/10.cpp)
+11. Largest product in a grid
+12. Highly divisible triangular number - [python](./py/12.py) | [cpp](./cpp/12.cpp)
