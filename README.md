@@ -18,3 +18,5 @@ Solutions of the famous [Project Euler](https://projecteuler.com/archives), in P
 12. Highly divisible triangular number - [python](./py/12.py) | [cpp](./cpp/12.cpp)
 13. Large sum - [python](./py/13.py) | [cpp](./cpp/13.cpp)
 14. Longest Collatz sequence - [python](./py/14.py) | [cpp](./cpp/14.cpp)
+15. Lattice paths
+16. Power digit sum - [python](./py/16.py) | [cpp](./cpp/16.cpp)
