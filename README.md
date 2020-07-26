@@ -20,3 +20,7 @@ Solutions of the famous [Project Euler](https://projecteuler.com/archives), in P
 14. Longest Collatz sequence - [python](./py/14.py) | [cpp](./cpp/14.cpp)
 15. Lattice paths
 16. Power digit sum - [python](./py/16.py) | [cpp](./cpp/16.cpp)
+17. Number letter counts
+18. Maximum path sum 1
+19. Counting Sundays
+20. Factorial digit sum - [python](./py/20.py) | [cpp](./cpp/20.cpp)
